@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Paul 👋
+
+## I'm a Developer, and Teacher!!!
+- 🔭 I'm currently working on a personal project. 
+- 🌱 I’m currently learning react-native and flutter. 
+- 👯 I’m looking to collaborate on other content creators. 
+- ⚡ Fun fact: I love to cook and play guitar. 
+<br/>
+
 
 <!--
 **PaulLandaeta/PaulLandaeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
