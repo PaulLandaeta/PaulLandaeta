@@ -1,7 +1,7 @@
 ### Hi there, I'm Paul 👋
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-## I'm a Developer, and Teacher!!!
+## I'm a Developer, and Professor!!!
 - 🔭 I'm currently working on a personal project. 
 - 🌱 I’m currently learning react-native and flutter. 
 - 👯 I’m looking to collaborate on other content creators. 
