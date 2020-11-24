@@ -102,7 +102,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/PaulLandaeta/PaulLandaeta/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/PaulLandaeta/PaulLandaeta/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
