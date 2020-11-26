@@ -35,8 +35,6 @@
 
 **🐱 My Github Data** 
 
-> 🏆 164 Contributions in the Year 2020
- > 
 > 📦 105.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
@@ -74,17 +72,16 @@ Sunday       36 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/La_Paz
 
 💬 Programming Languages: 
-YAML                     20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-study                    12 mins             ███████████████░░░░░░░░░░   62.86% 
-Unknown Project          7 mins              █████████░░░░░░░░░░░░░░░░   37.14%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
