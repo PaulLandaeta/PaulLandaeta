@@ -74,16 +74,17 @@ Sunday       36 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/La_Paz
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      41 mins             ████████████████████████░   99.25% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  41 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          41 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      41 mins             █████████████████████████   100.0%
 
 ```
 
