@@ -74,17 +74,16 @@ Sunday       36 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/La_Paz
 
 💬 Programming Languages: 
-HTML                     5 mins              ███████████████████████░░   93.74% 
-SCSS                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.26%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-file-management          5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
