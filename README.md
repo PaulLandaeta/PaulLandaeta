@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on a personal project. 
 - 🌱 I’m currently learning react-native and flutter. 
 - 👯 I’m looking to collaborate on other content creators. 
-- ⚡ Fun fact: I love to cook and play guitar. 
+- ⚡ Fun fact: I love cooking and play guitar. 
 <br/>
 
 ### Languages and Tools:
