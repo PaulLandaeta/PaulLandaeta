@@ -1,5 +1,5 @@
 ### Hi there, I'm Paul 👋
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='https://media4.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy.gif' width='200"'>
 
 ## I'm a Developer, and Professor!!!
 - 🔭 I'm currently working on a personal project. 
